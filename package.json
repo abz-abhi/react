@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is namasteb react form abhi",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abz-abhi/finel.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abz-abhi/finel/issues"
+  },
+  "homepage": "https://github.com/abz-abhi/finel#readme"
+}
